@@ -31,7 +31,7 @@ Extra:
 
 Open a new terminal window and you will see your seamless terminal.
 
-Check out [https://codematters.blog/custom-iterm2-titlebar-background-colors-a088c6f2ec60](this hack) if you want to achieve a similar result on a OS prior to Mojave.
+Check out [https://codematters.blog/custom-iterm2-titlebar-background-colors-a088c6f2ec60](this hack) if you want to achieve a similar result on an OS prior to Mojave.
 
 # Shell
 
@@ -61,7 +61,7 @@ Save the file, restart your shell and enjoy your cool terminal.
 
 ## zshconfig
 
-Open `~/.zshrc` with a text editor and go to the bottom of the file. There you can set your own aliases and commands to be run along every shell session. Let's create an alias to take us right to this configuration file. Prepend the following line and replace `vi` with your favorite text editor.
+Open `~/.zshrc` with a text editor and go to the bottom of the file. There you can set your own aliases and commands to be run along every shell session. Let's create an alias to take us to this configuration file faster. Prepend the following line and replace `vi` with your favorite text editor.
 
 ```
 # zshconfig
@@ -70,7 +70,7 @@ alias zshconfig='vi ~/.zshrc'
 
 ## Autosuggestions
 
-You can command suggestion as you type based on your previous executions. To achieve that, enable the plugin `zsh-autosuggestions` by editing `./zshrc` (remember `zshconfig`). Find that `plugins=(git)` line (or such, since I assume `git` is the only plugin out of the box) and add `zsh-autosuggestions` (use a space or a line break to separate plugins). 
+You can get command suggestion as you type based on your previous executions. To achieve that, enable the plugin `zsh-autosuggestions` by editing `./zshrc` (remember `zshconfig`). Find that `plugins=(git)` line (or such, since I assume `git` is the only plugin out of the box) and add `zsh-autosuggestions` (use a space or a line break to separate plugins). 
 
 ## Shortcut to your recent directories (`z` command)
 
