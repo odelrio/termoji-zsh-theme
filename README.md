@@ -26,12 +26,12 @@ I will explain how to get a macOS terminal working as mine (see sample GIF).
 
 Extra:
 
-6. Set a fancy font like [https://github.com/adobe-fonts/source-code-pro](Source Code Pro) in **Text**.
-7. Download [https://raw.githubusercontent.com/odelrio/termoji-zsh-theme/master/termoji-dark.itermcolors](this) color scheme and import it in the **Colors** tab (**Color Presets...**).
+6. Set a fancy font like [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) in **Text**.
+7. Download [this](https://raw.githubusercontent.com/odelrio/termoji-zsh-theme/master/termoji-dark.itermcolors) color scheme and import it in the **Colors** tab (**Color Presets...**).
 
 Open a new terminal window and you will see your seamless terminal.
 
-Check out [https://codematters.blog/custom-iterm2-titlebar-background-colors-a088c6f2ec60](this hack) if you want to achieve a similar result on an OS prior to Mojave.
+Check out [this hack](https://codematters.blog/custom-iterm2-titlebar-background-colors-a088c6f2ec60) if you want to achieve a similar result on an OS prior to Mojave.
 
 # Shell
 
