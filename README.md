@@ -6,7 +6,7 @@
 
 # Introduction
 
-`termoji` is ZSH theme based on [Tyler Reckart](https://github.com/tylerreckart)'s [HYPERZSH](https://github.com/tylerreckart/hyperzsh). It introduces emojis to check a git repository status at a glance. This theme divides the prompt in two lines, displaying the directory and repository info in the first one and allocating more room to type the command at the second. You can customize it by simply editing a file.
+`termoji` is a ZSH theme based on [Tyler Reckart](https://github.com/tylerreckart)'s [HYPERZSH](https://github.com/tylerreckart/hyperzsh). It introduces emojis to check a git repository status at a glance. This theme divides the prompt in two lines, displaying the directory and repository info in the first one and allocating more room to type the command at the second. You can customize it by simply editing a file.
 
 I will explain how to get a macOS terminal working as mine (see sample GIF).
 
